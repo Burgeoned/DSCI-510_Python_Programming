@@ -1,0 +1,11 @@
+# Credentials
+.env
+Yelp API keys.txt
+
+# Databases and Local Data
+*.db
+restaurant_data.csv
+fast_food_chains.csv
+
+# Python cache
+__pycache__/
